@@ -1,4 +1,4 @@
- <!-- SaqlainHub | GitHub Profile README -->
+<!-- SaqlainHub | GitHub Profile README -->
 
 <p align="center">
   <img src="./profile-banner.svg" alt="SaqlainHub profile banner" width="100%" />
@@ -7,7 +7,7 @@
 <p align="center">
   <strong>Full-Stack Software Engineer | AI Engineering</strong>
   <br />
-  Building full-stack applications and AI-powered systems with Next.js, Python, FastAPI, PostgreSQL, and retrieval-augmented generation.
+  Turning complex requirements into practical, reliable software products through thoughtful engineering and AI integration.
 </p>
 
 <p align="center">
@@ -32,22 +32,11 @@
 
 ## About Me
 
-I build software by connecting the pieces that make an application work as a complete system: **user interfaces, backend services, databases, external integrations, and AI components.**
+I enjoy solving software problems by understanding how the pieces fit together—from user needs and system behavior to implementation and real-world use.
 
-My primary stack includes TypeScript, React, Next.js, Python, FastAPI, PostgreSQL, and SQLAlchemy. On the AI side, I work with LLM integration, retrieval-augmented generation (RAG), embeddings, structured outputs, and tool calling.
-
-I am particularly interested in building AI-powered applications that solve practical problems—not just demonstrating what a model can generate, but designing the surrounding software that makes its capabilities useful.
-
-My engineering interests include:
-
-- **Full-stack engineering:** designing and integrating frontend, backend, and data layers.
-- **AI application development:** grounding LLM responses in relevant information and connecting models to tools and workflows.
-- **Backend and data engineering:** designing APIs, validating data, managing persistence, and handling application state.
-- **Software architecture:** separating responsibilities, managing dependencies, and making systems easier to maintain and extend.
+My goal is to build applications that are not only functional, but also understandable, maintainable, and useful beyond a demo. I approach AI as part of a larger software system, where the quality of the surrounding engineering matters as much as the model itself.
 
 ### How I Approach Engineering
-
-I approach development as an end-to-end engineering process, from understanding the problem to deploying, monitoring, and improving the resulting system.
 
 <p align="center">
   <img src="https://img.shields.io/badge/01-Understand_Requirements-2563EB?style=flat-square" alt="Step 1: Understand requirements" />
@@ -67,17 +56,7 @@ I approach development as an end-to-end engineering process, from understanding 
   <img src="https://img.shields.io/badge/07-Evaluate_%26_Iterate-16A34A?style=flat-square" alt="Step 7: Evaluate and iterate" />
 </p>
 
-| Stage | Engineering approach |
-|---|---|
-| **01 — Understand** | Clarify the problem, user needs, requirements, constraints, and success criteria. |
-| **02 — Model** | Identify entities, data flows, system boundaries, dependencies, and failure cases. |
-| **03 — Design** | Define component responsibilities, API contracts, database schemas, and integration points. |
-| **04 — Implement** | Build modular components with clear interfaces, appropriate abstractions, and input validation. |
-| **05 — Integrate & test** | Verify component interactions, test important behavior, handle errors, and investigate failures. |
-| **06 — Deploy & monitor** | Configure environments, deploy the application, inspect logs, and monitor operational behavior. |
-| **07 — Evaluate & iterate** | Use test results, observed failures, and feedback to improve correctness, reliability, and maintainability. |
-
-For AI-powered applications, this process also includes evaluating retrieval quality, context relevance, response structure, tool execution, and failure handling.
+I move from defining the problem and designing the system to implementation, verification, deployment, and continuous improvement. Each stage should have a clear purpose and a way to verify the result.
 
 ---
 
@@ -178,28 +157,11 @@ Software architecture · Version control · Technical documentation · Testing a
 
 ---
 
-## Engineering Capabilities
-
-| Area | Engineering focus |
-|---|---|
-| **Application architecture** | Separation of concerns, modular design, component boundaries, and integration patterns |
-| **Frontend development** | Responsive interfaces, reusable components, and user-centered design |
-| **Backend development** | API contracts, validation, authentication, error handling, and business logic |
-| **Data engineering** | Schema design, persistence, migrations, and reliable data access |
-| **AI application pipelines** | Document ingestion, retrieval, context construction, structured generation, and tool integration |
-| **Application security** | Secure configuration, session management, authentication, and input validation |
-| **Software quality** | Testing, debugging, logging, maintainability, and systematic verification |
-| **Deployment and operations** | Hosting, environment configuration, deployment workflows, and monitoring |
-
----
-
 ## Current Focus
 
-- Improving the architecture, reliability, and maintainability of AI-powered applications.
-- Strengthening backend engineering, testing, and application security.
-- Exploring retrieval evaluation, tool orchestration, and agent workflows.
-- Building a deeper foundation in computer science, algorithms, data structures, and software design.
-- Developing practical projects that connect AI capabilities with real application requirements.
+- **Reliable AI applications:** improving retrieval quality, tool orchestration, and failure handling.
+- **Software engineering fundamentals:** deepening my understanding of algorithms, data structures, testing, and system design.
+- **Practical implementation:** applying these concepts in working projects and refining them through debugging and iteration.
 
 ---
 
@@ -232,4 +194,3 @@ Software architecture · Version control · Technical documentation · Testing a
 <p align="center">
   <sub>SaqlainHub · Engineering full-stack software and integrating AI into practical applications.</sub>
 </p>
-
