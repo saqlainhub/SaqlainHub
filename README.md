@@ -1,8 +1,5 @@
 <!-- SaqlainHub | GitHub Profile README -->
 
-<p align="center">
-  <img src="./profile-banner.svg" alt="SaqlainHub profile banner" width="100%" />
-</p>
 
 <p align="center">
   <strong>Full-Stack Software Engineer | AI Engineering</strong>
@@ -116,7 +113,7 @@ Data modeling · Relational database design · SQL queries · ORM-based persiste
   <img src="https://img.shields.io/badge/RAG-Knowledge_Retrieval-7C3AED?style=flat-square" alt="RAG" />
   <img src="https://img.shields.io/badge/Embeddings-Semantic_Search-6366F1?style=flat-square" alt="Embeddings" />
   <img src="https://img.shields.io/badge/Agentic_AI-Tool_Orchestration-4338CA?style=flat-square" alt="Agentic AI" />
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Vector DB" />
 </p>
 
 **Core capabilities**
@@ -126,29 +123,25 @@ LLM integration · Prompt engineering · Context engineering · Retrieval-augmen
 ### 05. DevOps & Cloud Infrastructure
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="Amazon Web Services" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway" />
-  <img src="https://img.shields.io/badge/Fly.io-7B3FE4?style=flat-square&logo=flydotio&logoColor=white" alt="Fly.io" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/Hosting-4285F4?style=flat-square&logo=serverfault&logoColor=white" alt="Hosting" />
+  <img src="https://img.shields.io/badge/Domain-0A66C2?style=flat-square&logo=internetarchive&logoColor=white" alt="Domain" />
 </p>
 
 **Core capabilities**
 
-Domains and DNS · Hosting · HTTPS and TLS · Environment configuration · CI/CD concepts · Application deployment · Logging and monitoring · File and object storage · Containerization · Cloud infrastructure fundamentals
+Domains and DNS · Hosting · HTTPS and TLS · Environment configuration · CI/CD concepts · Application deployment · Logging and monitoring · File and object storage · AI Evaluation · Cloud infrastructure fundamentals
 
 ### 06. Tools & Engineering Workflow
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
 **Core capabilities**
