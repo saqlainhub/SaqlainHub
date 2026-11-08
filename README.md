@@ -1,5 +1,6 @@
 <!-- SaqlainHub | GitHub Profile README -->
 
+<img src="profile-banner.svg" />
 
 <p align="center">
   <strong>Full-Stack Software Engineer | AI Engineering</strong>
@@ -11,7 +12,7 @@
   <a href="https://github.com/saqlainhub">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.saqlainhub.site">
+  <a href="https://www.saqlainhub.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:saqlainhub1097@gmail.com">
@@ -164,22 +165,22 @@ Software architecture · Version control · Technical documentation · Testing a
   <a href="https://github.com/saqlainhub">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.saqlainhub.site">
+  <a href="https://www.saqlainhub.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:saqlainhub1097@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <a href="https://www.linkedin.com/in/saqlainhub1097/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME/">
+  <a href="https://www.facebook.com/saqlain1097/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/">
+  <a href="https://www.instagram.com/saqlainhub1097/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="tel:+92XXXXXXXXXX">
+  <a href="tel:+923454409621">
     <img src="https://img.shields.io/badge/Phone-Contact-16A34A?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" />
   </a>
 </p>
